@@ -4,8 +4,13 @@ description: Student prepared two part strategy for sustainable development in t
   context of small businesses. It consists of 1) Business District Revitalization
   Strategy targeting businesses that represent the Fields Corner business district;
   and 2) a Greater Boston Vietnamese Business Development Strategy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-947-sustainable-economic-development-spring-2004/571eaee089f733ce722d3c48746bff3f_finalvietaid.pdf
+file: /media/courses/11-947-sustainable-economic-development-spring-2004/571eaee089f733ce722d3c48746bff3f_finalvietaid.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Recommendations for Sustainable Development in Fields Corner
 uid: 571eaee0-89f7-33ce-722d-3c48746bff3f
