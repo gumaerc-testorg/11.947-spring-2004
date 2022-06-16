@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides citations for the course readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

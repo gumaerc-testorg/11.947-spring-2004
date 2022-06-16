@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course objectives, organization, requirements, and project teams.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
