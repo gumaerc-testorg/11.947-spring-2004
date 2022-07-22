@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section contains both an overview of the assignments, as well as
+  a listing of specific assignments by session and the student reports and presentations.
+  All student work is courtesy of the students named and used with permission.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c2812760-9ae3-da09-56e9-bf2bde6082b9
 ---
@@ -265,9 +271,9 @@ _Outside Class_
   
 Class representatives should meet with the client during this week to discuss and get feedback on initial findings and proposed plan agenda.  
   
-Jackson Square / Hyde Square Existing Conditions Presentation ([PDF - 1.4 MB]({{< baseurl >}}/resources/jp_phase1)) - Peter Brandenburg, Shoma Haque, Anne Herbst, Jumana Nabti, and Dhakshike Wickrema.  
+Jackson Square / Hyde Square Existing Conditions Presentation ({{% resource_link dfa722b5-f352-3051-7fe5-867c0e5ed7e3 "PDF - 1.4 MB" %}}) - Peter Brandenburg, Shoma Haque, Anne Herbst, Jumana Nabti, and Dhakshike Wickrema.  
   
-Planning for Sustainable Development in Fields Corner ([PDF - 1.2 MB]({{< baseurl >}}/resources/vietaid_phase1)) - Brian Cheigh, Pankaj Kuman, David Perkes, Heather Seyfang, and Jeanne Zhijun Tan.
+Planning for Sustainable Development in Fields Corner ({{% resource_link d410949f-8efe-6d4c-4640-2838fc54b91d "PDF - 1.2 MB" %}}) - Brian Cheigh, Pankaj Kuman, David Perkes, Heather Seyfang, and Jeanne Zhijun Tan.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -311,9 +317,9 @@ Technology Transfer, Green Design, and Industrial Ecology
 {{< tdopen >}}
 Each group should write-up the first section of the report, which includes assessment and existing conditions analysis. Sample reports from the course are included below. All work is courtesy of the students named and used with permission.  
   
-Jackson Square / Hyde Square Existing Conditions Report ([PDF - 1.5 MB]({{< baseurl >}}/resources/jp_phase1_report)) - Peter Brandenburg, Shoma Haque, Anne Herbst, Jumana Nabti, and Dhakshike Wickrema.  
+Jackson Square / Hyde Square Existing Conditions Report ({{% resource_link 9909bc34-d45c-b7fd-2849-f8918e882bb7 "PDF - 1.5 MB" %}}) - Peter Brandenburg, Shoma Haque, Anne Herbst, Jumana Nabti, and Dhakshike Wickrema.  
   
-Planning for Sustainable Development in Fields Corner Phase I: Existing Conditions Report ([PDF - 2.3 MB]({{< baseurl >}}/resources/vieta_ph1_report)) - Brian Cheigh, Pankaj Kumar, David Perkes, Heather Seyfang, and Jeanne Zhijun Tan.
+Planning for Sustainable Development in Fields Corner Phase I: Existing Conditions Report ({{% resource_link 5a9f6b3d-53ef-ec3b-72a1-7b7135038e23 "PDF - 2.3 MB" %}}) - Brian Cheigh, Pankaj Kumar, David Perkes, Heather Seyfang, and Jeanne Zhijun Tan.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -497,7 +503,7 @@ Reflection
 Final Projects Due
 {{< tdclose >}}
 {{< tdopen >}}
-Final reports are included in the [projects]({{< baseurl >}}/pages/projects) section.
+Final reports are included in the {{% resource_link fbd6c691-d0dc-d1fe-e51c-27260e9009b0 "projects" %}} section.
 {{< tdclose >}}
 
 {{< trclose >}}

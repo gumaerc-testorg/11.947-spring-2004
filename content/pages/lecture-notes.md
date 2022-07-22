@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics, lecture summaries,
+  and lecture notes for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: f0c47046-ceaf-daa1-336c-6d9c41312458
 ---
@@ -60,7 +65,7 @@ Concepts and Theory: Brownfields and Neighborhood Development
 {{< tdopen >}}
 We will explore sustainable development as it applies to the neighborhood or local scale in this session. Focusing on brownfields and community economic development, we will examine specific approaches to advancing sustainability in a community planning setting. This session will also consider different perspectives on business development in immigrant communities.  
   
-Market Analysis ([PDF]({{< baseurl >}}/resources/market_analysis3))
+Market Analysis ({{% resource_link 6e878709-077a-0b02-f45a-21f1cff6702b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Part II of the class represents the first phase of our planning work during whic
   
 This class will review several tools used for environmental and economic analysis of an area. Issues and data sources for identifying brownfield sites and other environmental risks are presented along with a simple framework for conducting an economic base analysis. We will also consider the use of indicators to measure and track sustainability.  
   
-Economic Base Analysis ([PDF]({{< baseurl >}}/resources/base_analysis5))
+Economic Base Analysis ({{% resource_link 1e4c8590-b787-3a2c-0ed7-420e1c39d413 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
