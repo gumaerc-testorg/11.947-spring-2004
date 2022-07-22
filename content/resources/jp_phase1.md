@@ -5,6 +5,7 @@ file: /courses/11-947-sustainable-economic-development-spring-2004/dfa722b5f3523
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Jackson Square / Hyde Square Sustainable Development Project
 uid: dfa722b5-f352-3051-7fe5-867c0e5ed7e3
 ---
 Student prepared development plan presentation slides.
-

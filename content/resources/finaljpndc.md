@@ -6,6 +6,7 @@ file: /courses/11-947-sustainable-economic-development-spring-2004/8d5159e0270fa
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sustainable Development in Jackson Square
 uid: 8d5159e0-270f-a3e6-3583-72587274d547
 ---
 Student prepared development plan presentation for several vacant properties in Jamaica Plain and Roxbury.
-

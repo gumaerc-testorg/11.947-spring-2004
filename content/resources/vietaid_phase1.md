@@ -6,6 +6,7 @@ file: /courses/11-947-sustainable-economic-development-spring-2004/d410949f8efe6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Existing Conditions Analysis: Introduction'
 uid: d410949f-8efe-6d4c-4640-2838fc54b91d
 ---
 Student prepared presentation on sustainable development planning and practice.
-

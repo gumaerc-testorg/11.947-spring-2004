@@ -6,6 +6,7 @@ file: /courses/11-947-sustainable-economic-development-spring-2004/9909bc34d45cb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Existing Conditions Report for Jamaica Plain Neighborhood Development Cor
 uid: 9909bc34-d45c-b7fd-2849-f8918e882bb7
 ---
 Student prepared neighborhood assessment and existing conditions analysis for Jackson Square / Hyde Square sustainable development project.
-
