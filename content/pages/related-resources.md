@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: This section provides links to external web resources for the course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: d4eb98d9-a946-9e10-2685-bf6a65753096
 ---
-
-Web Resources
--------------
+## Web Resources
 
 ### Session 5: Research Methods: Brownfields, Economic Base Analysis, and Indicators
 
@@ -33,8 +32,6 @@ Web Resources
 [Rocky Mountain Institute](http://www.rmi.org/)
 
 Hickory Consortium ([PDF](http://www.nrel.gov/docs/fy03osti/31726.pdf))
-
-[U.S. Dept. of Energy Smart Communities Network](http://www.sustainable.org/environment/energy/838-smart-communities-network-us-department-of-energy-doe-office-of-energy-efficiency-and-renewable-energy)
 
 [Green Houses](http://www.nesea.org/greenbuildings/) (talk by Liz Cordero)
 
