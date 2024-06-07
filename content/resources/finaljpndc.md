@@ -3,6 +3,7 @@ content_type: resource
 description: Student prepared development plan presentation for several vacant properties
   in Jamaica Plain and Roxbury.
 file: /courses/11-947-sustainable-economic-development-spring-2004/8d5159e0270fa3e6358372587274d547_finaljpndc.pdf
+file_size: 2613332
 file_type: application/pdf
 learning_resource_types:
 - Assignments
