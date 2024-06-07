@@ -4,6 +4,7 @@ description: 'Lecture notes on the following topics: quantitative retail market 
   community or district-level sales gap analysis, and enhancing and adjusting the
   quantitative analysis.'
 file: /courses/11-947-sustainable-economic-development-spring-2004/6e878709077a0b02f45a21f1cff6702b_market_analysis3.pdf
+file_size: 117279
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
