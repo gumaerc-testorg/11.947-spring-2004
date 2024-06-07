@@ -3,6 +3,7 @@ content_type: resource
 description: Student prepared neighborhood assessment and existing conditions report
   for a Dorchester neighborhood development project.
 file: /courses/11-947-sustainable-economic-development-spring-2004/5a9f6b3d53efec3b72a17b7135038e23_vieta_ph1_report.pdf
+file_size: 2397165
 file_type: application/pdf
 learning_resource_types:
 - Assignments
