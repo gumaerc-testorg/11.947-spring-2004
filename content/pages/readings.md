@@ -216,7 +216,7 @@ Blakely, E., and T. Bradshaw. "Business Development." In *Planning Local Economi
 
 Chertow, Marian R., and Daniel C. Esty, eds. *Thinking Ecologically: The Next Generation of Environmental Policy*. New Haven, CT: Yale University Press, 1997, pp. 60-76. ISBN: 0300073038.
 
-Grossman, Karen. "Connectors and Conduits: Reaching Competitive Markets from the Ground Up." The Aspen Institute, 2002, pp. 12-32. ([PDF](http://fieldus.org/publications/ATMFinalReport.pdf))
+Grossman, Karen. "Connectors and Conduits: Reaching Competitive Markets from the Ground Up." The Aspen Institute, 2002, pp. 12-32. ([PDF](https://www.aspeninstitute.org/publications/connectors-and-conduits-reaching-competitive-markets-ground/))
 
 Holliston Case Study. [Charles River Watershed Association](http://www.crwa.org/).
 
