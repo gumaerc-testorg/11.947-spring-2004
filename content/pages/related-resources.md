@@ -51,4 +51,4 @@ Hickory Consortium ([PDF](http://www.nrel.gov/docs/fy03osti/31726.pdf))
 
 [Small business administration](http://www.sba.gov/ma/)
 
-[Microenterprise development](http://www.fieldus.org/)
+[Microenterprise development (PDF)](https://www.aspeninstitute.org/wp-content/uploads/2017/07/MicroFactSheet2.pdf)
