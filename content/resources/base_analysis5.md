@@ -3,7 +3,7 @@ content_type: resource
 description: 'Lecture notes on the following topics: economic structure or base analysis,
   key issues for economic base analysis, economic performance and "Livability" analysis,
   and joint venture silicon valley index.'
-file: /ol-ocw-studio-app/courses/11-947-sustainable-economic-development-spring-2004/1e4c8590b7873a2c0ed7420e1c39d413_base_analysis5.pdf
+file: /courses/11-947-sustainable-economic-development-spring-2004/1e4c8590b7873a2c0ed7420e1c39d413_base_analysis5.pdf
 file_size: 142328
 file_type: application/pdf
 learning_resource_types:
