@@ -2,7 +2,7 @@
 content_type: resource
 description: Student prepared presentation on sustainable development planning and
   practice.
-file: /courses/11-947-sustainable-economic-development-spring-2004/d410949f8efe6d4c46402838fc54b91d_vietaid_phase1.pdf
+file: /ol-ocw-studio-app/courses/11-947-sustainable-economic-development-spring-2004/d410949f8efe6d4c46402838fc54b91d_vietaid_phase1.pdf
 file_size: 1238766
 file_type: application/pdf
 learning_resource_types:
