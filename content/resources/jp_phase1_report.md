@@ -2,7 +2,7 @@
 content_type: resource
 description: Student prepared neighborhood assessment and existing conditions analysis
   for Jackson Square / Hyde Square sustainable development project.
-file: /courses/11-947-sustainable-economic-development-spring-2004/9909bc34d45cb7fd2849f8918e882bb7_jp_phase1_report.pdf
+file: /ol-ocw-studio-app/courses/11-947-sustainable-economic-development-spring-2004/9909bc34d45cb7fd2849f8918e882bb7_jp_phase1_report.pdf
 file_size: 1575088
 file_type: application/pdf
 learning_resource_types:
